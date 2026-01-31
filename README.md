@@ -2,7 +2,9 @@
 
 Script for copying tar arhive from linux to Windows.
 
-Before use BackupFileSystem.ps1 you need use backup.sh in crontab linux
+This script used for making backup from linux (samba) to windows server.
+
+Before use BackupFileSystem.ps1 you need use backup.sh in crontab linux for pack directory to tar arhive
 
 Settings for credentials file .xml
 
